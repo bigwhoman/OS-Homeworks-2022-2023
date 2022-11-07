@@ -35,7 +35,7 @@ int main(void){
 	 pmessg(message);
 	 _exit(1);
 	}
-	if(pid == 0){
+	else if(pid == 0){
 		char c;
 		int number_of_chars = 0;
 		int t = lseek(f_read,-1,SEEK_END);
