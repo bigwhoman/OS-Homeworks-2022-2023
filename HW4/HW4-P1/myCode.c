@@ -11,6 +11,11 @@ int **matrix_p;
 int matrix_size;
 int wait = 0;
 static pthread_barrier_t barrier;
+
+void read_file(char *const *argv);
+
+void write_in_file();
+
 #define INFINITY INT_MAX
 
 // The function to be executed by all threads
@@ -41,22 +46,78 @@ void *myThreadFun(void *vargp) {
     return NULL;
 }
 
-int main() {
-    printf("enter matrix size : ");
-    scanf("%d",&matrix_size);
+int main(int argc, char *argv[]) {
+    read_file(argv);
+
+    int i;
+
+    int s = pthread_barrier_init(&barrier, NULL, matrix_size * matrix_size);
+    if (s != 0)
+        exit(1);
+
+    pthread_t tid;
+    pthread_t threads[matrix_size][matrix_size];
+    for (i = 0; i < matrix_size; i++)
+        for (int j = 0; j < matrix_size; ++j) {
+            int *n = malloc(2 * sizeof(int));
+            n[0] = i;
+            n[1] = j;
+            pthread_create(&tid, NULL, myThreadFun, (void *) n);
+            threads[i][j] = tid;
+        }
+    for (i = 0; i < matrix_size; i++)
+        for (int j = 0; j < matrix_size; ++j) {
+            s = pthread_join(threads[i][j], NULL);
+            if (s != 0)
+                exit(1);
+        }
+    write_in_file();
+
+    return 0;
+}
+
+void write_in_file() {
+    FILE *fp;
+    fp = fopen("output.txt", "w");
+    if (fp == NULL) {
+        printf("file can't be opened\n");
+        exit(1);
+    }
+    for (int i = 0; i < matrix_size; i++) {
+        fflush(stdin);
+        for (int j = 0; j < matrix_size; ++j) {
+            if (matrix_p[i][j] == -1) {
+                printf("∞ ");
+                fprintf(fp, "∞ ");
+            } else {
+                printf("%d ", matrix_p[i][j]);
+                fprintf(fp, "%d ", matrix_p[i][j]);
+            }
+        }
+        printf("\n");
+        fprintf(fp, "\n");
+    }
+    fclose(fp);
+}
+
+void read_file(char *const *argv) {
+    FILE *fp;
+    char *line = NULL;
+    size_t len = 0;
+    ssize_t readl;
+    matrix_size = 0;
+    fp = fopen(argv[1], "r");
+    if (fp == NULL)
+        exit(EXIT_FAILURE);
+    while ((readl = getline(&line, &len, fp)) != -1) {
+        matrix_size += 1;
+    }
+    rewind(fp);
     {
         matrix_p = malloc(matrix_size * sizeof(int *));
         for (int i = 0; i < matrix_size; i++)
             matrix_p[i] = malloc(matrix_size * sizeof(int));
     }
-    FILE *fp;
-    char *line = NULL;
-    size_t len = 0;
-    ssize_t read;
-
-    fp = fopen("./testcase.txt", "r");
-    if (fp == NULL)
-        exit(EXIT_FAILURE);
 
     char x[1024];
     int row = 0;
@@ -80,41 +141,4 @@ int main() {
         }
     }
     fclose(fp);
-
-    int i;
-
-
-    int s = pthread_barrier_init(&barrier, NULL, matrix_size * matrix_size);
-    if (s != 0)
-        exit(1);
-
-    pthread_t tid;
-    pthread_t threads[matrix_size][matrix_size];
-    for (i = 0; i < matrix_size; i++)
-        for (int j = 0; j < matrix_size; ++j) {
-            int *n = malloc(2 * sizeof(int));
-            n[0] = i;
-            n[1] = j;
-            pthread_create(&tid, NULL, myThreadFun, (void *) n);
-            threads[i][j] = tid;
-        }
-    for (i = 0; i < matrix_size; i++)
-        for (int j = 0; j < matrix_size; ++j) {
-            s = pthread_join(threads[i][j], NULL);
-            if (s != 0)
-                exit(1);
-        }
-
-
-    for (int i = 0; i < matrix_size; i++) {
-        for (int j = 0; j < matrix_size; ++j) {
-            if (matrix_p[i][j] == -1)
-                printf("∞ ");
-            else
-                printf("%d ", matrix_p[i][j]);
-        }
-        printf("\n");
-    }
-
-    return 0;
 }
