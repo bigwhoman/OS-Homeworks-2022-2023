@@ -109,21 +109,34 @@ int main() {
 }
 
 int getInputs() {
+    printf("enter inputs and press enter until finished.\n"
+           " if you enter -1 for either of m or n the calculations will start.\n");
     int k = 4;
     available_threads = k;
-    printf("input number of tasks : ");
-    num_of_tasks;
-    scanf("%d", &num_of_tasks);
-
+    num_of_tasks = 0;
+    FILE *dummy_file;
+    ssize_t readl;
+    dummy_file = fopen("./dummy_file.txt", "w+");
+    while (1) {
+        int n, m;
+        scanf("%d %d", &m, &n);
+        if (m == -1 || n == -1)
+            break;
+        fprintf(dummy_file, "%d %d\n", m, n);
+        num_of_tasks++;
+    }
     {
         tasks = malloc(num_of_tasks * sizeof(task));
     }
+    rewind(dummy_file);
     for (int i = 0; i < num_of_tasks; i++) {
         int n, m;
-        scanf("%d %d", &m, &n);
+        readl = fscanf(dummy_file, "%d %d", &m, &n);
         task t = {m, n, m + n, random()};
         tasks[i] = t;
     }
+    fclose(dummy_file);
+    remove("./dummy_file.txt");
 
     qsort(tasks, num_of_tasks, sizeof(task), compare);
 
