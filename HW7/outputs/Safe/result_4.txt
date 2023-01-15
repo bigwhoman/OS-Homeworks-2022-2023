@@ -1,0 +1,768 @@
+Log(insert(x)) -> thread 140031084529216 inserted 9216a 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216a 
+Log(delete(x)) -> thread 140031084529216 deleted 9216a 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaaaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaaaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaaaaaaa 
+Log(insert(x)) -> thread 140031084529216 inserted 9216aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031084529216 : length is 4
+Log(lookup(x)) -> thread 140031084529216 found 9216aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140031084529216 deleted 9216aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400a 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400a 
+Log(delete(x)) -> thread 140031067342400 deleted 2400a 
+Log(insert(x)) -> thread 140030966232640 inserted 2640a 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640a 
+Log(delete(x)) -> thread 140030966232640 deleted 2640a 
+Log(insert(x)) -> thread 140031076136512 inserted 6512a 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512a 
+Log(delete(x)) -> thread 140031076136512 deleted 6512a 
+Log(insert(x)) -> thread 140031058949696 inserted 9696a 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696a 
+Log(delete(x)) -> thread 140031058949696 deleted 9696a 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176a 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176a 
+Log(delete(x)) -> thread 140031049754176 deleted 4176a 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192a 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192a 
+Log(delete(x)) -> thread 140030914672192 deleted 2192a 
+Log(insert(x)) -> thread 140030957839936 inserted 9936a 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936a 
+Log(delete(x)) -> thread 140030957839936 deleted 9936a 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232a 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232a 
+Log(delete(x)) -> thread 140030949447232 deleted 7232a 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000a 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000a 
+Log(delete(x)) -> thread 140030295144000 deleted 4000a 
+Log(insert(x)) -> thread 140030941054528 inserted 4528a 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528a 
+Log(delete(x)) -> thread 140030941054528 deleted 4528a 
+Log(insert(x)) -> thread 140030931859008 inserted 9008a 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008a 
+Log(delete(x)) -> thread 140030931859008 deleted 9008a 
+Log(insert(x)) -> thread 140030923466304 inserted 6304a 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304a 
+Log(delete(x)) -> thread 140030923466304 deleted 6304a 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568a 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568a 
+Log(delete(x)) -> thread 140030152533568 deleted 3568a 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592a 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592a 
+Log(delete(x)) -> thread 140030278358592 deleted 8592a 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296a 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296a 
+Log(delete(x)) -> thread 140030286751296 deleted 1296a 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaa 
+Log(insert(x)) -> thread 140030949447232 inserted 7232aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030949447232 : length is 4
+Log(lookup(x)) -> thread 140030949447232 found 7232aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030949447232 deleted 7232aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaaaaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030295144000 inserted 4000aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030295144000 : length is 4
+Log(lookup(x)) -> thread 140030295144000 found 4000aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030295144000 deleted 4000aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaaaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaaaaaaa 
+Log(insert(x)) -> thread 140031058949696 inserted 9696aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031058949696 : length is 4
+Log(lookup(x)) -> thread 140031058949696 found 9696aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140031058949696 deleted 9696aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030941054528 inserted 4528aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030941054528 : length is 4
+Log(lookup(x)) -> thread 140030941054528 found 4528aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030941054528 deleted 4528aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaaaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaaaaaaa 
+Log(insert(x)) -> thread 140031076136512 inserted 6512aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031076136512 : length is 4
+Log(lookup(x)) -> thread 140031076136512 found 6512aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140031076136512 deleted 6512aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030914672192 inserted 2192aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030914672192 : length is 4
+Log(lookup(x)) -> thread 140030914672192 found 2192aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030914672192 deleted 2192aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaaaaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaa 
+Log(insert(x)) -> thread 140030152533568 inserted 3568aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030152533568 : length is 4
+Log(lookup(x)) -> thread 140030152533568 found 3568aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030152533568 deleted 3568aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaaaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaaaaaaa 
+Log(insert(x)) -> thread 140031049754176 inserted 4176aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031049754176 : length is 4
+Log(lookup(x)) -> thread 140031049754176 found 4176aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140031049754176 deleted 4176aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaaaa 
+Log(insert(x)) -> thread 140030931859008 inserted 9008aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030931859008 : length is 4
+Log(lookup(x)) -> thread 140030931859008 found 9008aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030931859008 deleted 9008aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaaaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaaa 
+Log(insert(x)) -> thread 140031067342400 inserted 2400aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140031067342400 : length is 4
+Log(lookup(x)) -> thread 140031067342400 found 2400aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140031067342400 deleted 2400aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaaaa 
+Log(insert(x)) -> thread 140030966232640 inserted 2640aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030966232640 : length is 4
+Log(lookup(x)) -> thread 140030966232640 found 2640aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030966232640 deleted 2640aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030957839936 inserted 9936aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030957839936 : length is 4
+Log(lookup(x)) -> thread 140030957839936 found 9936aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030957839936 deleted 9936aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030286751296 inserted 1296aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030286751296 : length is 4
+Log(lookup(x)) -> thread 140030286751296 found 1296aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030286751296 deleted 1296aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030923466304 inserted 6304aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030923466304 : length is 4
+Log(lookup(x)) -> thread 140030923466304 found 6304aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030923466304 deleted 6304aaaaaaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaaaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaaaaaaa 
+Log(insert(x)) -> thread 140030278358592 inserted 8592aaaaaaaaaaaa 
+Log(get_length(x)) -> thread 140030278358592 : length is 4
+Log(lookup(x)) -> thread 140030278358592 found 8592aaaaaaaaaaaa 
+Log(delete(x)) -> thread 140030278358592 deleted 8592aaaaaaaaaaaa 
